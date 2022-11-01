@@ -1,4 +1,4 @@
-# INFO2180 Basic Web Security Example Attacks
+# COMP2245 Basic Web Security Example Attacks
 
 Create a database and ensure you run the `schema.sql` file at the MySQL prompt 
 to setup the database tables.
